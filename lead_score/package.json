@@ -1,0 +1,12 @@
+{
+	"name": "lead_score",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "zdc-hackathon2451@zohotest.com",
+	"dependencies": {
+		"axios": "^1.7.9",
+		"express": "^4.21.2",
+		"node-fetch": "^3.3.2",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
